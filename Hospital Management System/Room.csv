@@ -1,0 +1,392 @@
+room_No,dept_Id,room_Type
+1,101,Consultation Room
+2,101,Consultation Room
+3,101,Consultation Room
+11,101,Super Deluxe Room
+12,101,Deluxe Room
+13,101,Standard Room
+14,101,Super Deluxe Room
+15,101,Deluxe Room
+16,101,Standard Room
+17,101,Super Deluxe Room
+18,101,Deluxe Room
+19,101,Standard Room
+20,101,Emergency Room
+21,102,Consultation Room
+22,102,Consultation Room
+29,102,Super Deluxe Room
+30,102,Deluxe Room
+31,102,Standard Room
+32,102,Super Deluxe Room
+33,102,Deluxe Room
+34,102,Standard Room
+35,102,Emergency Room
+36,103,Consultation Room
+44,103,Super Deluxe Room
+45,103,Deluxe Room
+46,103,Standard Room
+47,103,Super Deluxe Room
+48,103,Deluxe Room
+49,103,Standard Room
+50,103,Emergency Room
+51,104,Consultation Room
+52,104,Consultation Room
+59,104,Super Deluxe Room
+60,104,Deluxe Room
+61,104,Standard Room
+62,104,Super Deluxe Room
+63,104,Deluxe Room
+64,104,Standard Room
+65,104,Emergency Room
+66,105,Consultation Room
+67,105,Consultation Room
+74,105,Super Deluxe Room
+75,105,Deluxe Room
+76,105,Standard Room
+77,105,Super Deluxe Room
+78,105,Deluxe Room
+79,105,Standard Room
+80,105,Emergency Room
+81,106,Consultation Room
+89,106,Super Deluxe Room
+90,106,Deluxe Room
+91,106,Standard Room
+92,106,Super Deluxe Room
+93,106,Deluxe Room
+94,106,Standard Room
+95,106,Emergency Room
+96,107,Consultation Room
+97,107,Consultation Room
+98,107,Consultation Room
+99,107,Consultation Room
+100,107,Consultation Room
+101,107,Consultation Room
+102,107,Consultation Room
+103,107,Consultation Room
+104,107,Consultation Room
+105,107,Consultation Room
+106,107,Consultation Room
+107,107,Consultation Room
+108,107,Consultation Room
+109,107,Consultation Room
+110,107,Consultation Room
+111,107,Consultation Room
+112,107,Consultation Room
+113,107,Consultation Room
+114,107,Consultation Room
+115,107,Consultation Room
+116,107,Consultation Room
+117,107,Super Deluxe Room
+118,107,Deluxe Room
+119,107,Standard Room
+120,107,Super Deluxe Room
+121,107,Deluxe Room
+122,107,Standard Room
+123,107,Emergency Room
+124,107,Emergency Room
+125,107,Emergency Room
+126,108,Consultation Room
+127,108,Consultation Room
+128,108,Consultation Room
+129,108,Consultation Room
+130,108,Consultation Room
+131,108,Consultation Room
+132,108,Consultation Room
+137,108,Super Deluxe Room
+138,108,Deluxe Room
+139,108,Standard Room
+140,108,Super Deluxe Room
+141,108,Deluxe Room
+142,108,Standard Room
+143,108,Emergency Room
+144,108,Emergency Room
+145,108,Emergency Room
+146,109,Consultation Room
+147,109,Consultation Room
+154,109,Super Deluxe Room
+155,109,Deluxe Room
+156,109,Standard Room
+157,109,Super Deluxe Room
+158,109,Deluxe Room
+159,109,Standard Room
+160,109,Emergency Room
+161,110,Consultation Room
+162,110,Consultation Room
+163,110,Consultation Room
+164,110,Consultation Room
+169,110,Super Deluxe Room
+170,110,Deluxe Room
+171,110,Standard Room
+172,110,Super Deluxe Room
+173,110,Deluxe Room
+174,110,Standard Room
+175,110,Emergency Room
+176,111,Consultation Room
+177,111,Consultation Room
+185,111,Super Deluxe Room
+186,111,Deluxe Room
+187,111,Standard Room
+188,111,Super Deluxe Room
+189,111,Deluxe Room
+190,111,Standard Room
+191,112,Consultation Room
+192,112,Consultation Room
+193,112,Consultation Room
+199,112,Super Deluxe Room
+200,112,Deluxe Room
+201,112,Standard Room
+202,112,Super Deluxe Room
+203,112,Deluxe Room
+204,112,Standard Room
+205,112,Emergency Room
+206,113,Consultation Room
+207,113,Consultation Room
+214,113,Super Deluxe Room
+215,113,Deluxe Room
+216,113,Standard Room
+217,113,Super Deluxe Room
+218,113,Deluxe Room
+219,113,Standard Room
+220,113,Emergency Room
+221,114,Consultation Room
+222,114,Consultation Room
+229,114,Super Deluxe Room
+230,114,Deluxe Room
+231,114,Standard Room
+232,114,Super Deluxe Room
+233,114,Deluxe Room
+234,114,Standard Room
+235,114,Emergency Room
+236,115,Consultation Room
+237,115,Consultation Room
+244,115,Super Deluxe Room
+245,115,Deluxe Room
+246,115,Standard Room
+247,115,Super Deluxe Room
+248,115,Deluxe Room
+249,115,Standard Room
+250,115,Emergency Room
+251,116,Consultation Room
+252,116,Consultation Room
+253,116,Consultation Room
+254,116,Consultation Room
+255,116,Consultation Room
+256,116,Consultation Room
+257,116,Consultation Room
+258,116,Consultation Room
+263,116,Super Deluxe Room
+264,116,Deluxe Room
+265,116,Standard Room
+266,116,Super Deluxe Room
+267,116,Deluxe Room
+268,116,Standard Room
+269,116,Emergency Room
+270,116,Emergency Room
+271,117,Operation Theatre
+272,117,Operation Theatre
+273,117,Operation Theatre
+274,117,Operation Theatre
+275,117,Operation Theatre
+276,117,Operation Theatre
+277,117,Operation Theatre
+278,117,Operation Theatre
+279,117,Operation Theatre
+280,117,Operation Theatre
+281,117,Operation Theatre
+282,117,Operation Theatre
+283,117,Operation Theatre
+284,117,Operation Theatre
+285,117,Operation Theatre
+286,117,Operation Theatre
+287,117,Operation Theatre
+288,117,Operation Theatre
+289,117,Operation Theatre
+290,117,Operation Theatre
+291,117,Operation Theatre
+292,117,Operation Theatre
+293,117,Operation Theatre
+294,117,Operation Theatre
+295,117,Operation Theatre
+296,117,Operation Theatre
+297,117,Operation Theatre
+298,117,Operation Theatre
+299,117,Operation Theatre
+300,117,Operation Theatre
+301,118,Consultation Room
+302,118,Consultation Room
+309,118,Super Deluxe Room
+310,118,Deluxe Room
+311,118,Standard Room
+312,118,Super Deluxe Room
+313,118,Deluxe Room
+314,118,Standard Room
+315,118,Emergency Room
+316,119,Consultation Room
+317,119,Consultation Room
+318,119,Consultation Room
+324,119,Super Deluxe Room
+325,119,Deluxe Room
+326,119,Standard Room
+327,119,Super Deluxe Room
+328,119,Deluxe Room
+329,119,Standard Room
+330,119,Emergency Room
+331,120,Consultation Room
+332,120,Consultation Room
+333,120,Consultation Room
+342,120,Super Deluxe Room
+343,120,Deluxe Room
+344,120,Standard Room
+345,120,Emergency Room
+346,121,Consultation Room
+347,121,Consultation Room
+348,121,Consultation Room
+349,121,Consultation Room
+350,121,Consultation Room
+351,121,Consultation Room
+352,121,Consultation Room
+353,121,Consultation Room
+354,121,Consultation Room
+355,121,Consultation Room
+356,121,Consultation Room
+357,121,Consultation Room
+358,121,Consultation Room
+359,121,Consultation Room
+360,121,Consultation Room
+361,121,Consultation Room
+362,121,Consultation Room
+363,121,Consultation Room
+364,121,Consultation Room
+365,121,Consultation Room
+366,121,Consultation Room
+367,121,Super Deluxe Room
+368,121,Deluxe Room
+369,121,Standard Room
+370,121,Super Deluxe Room
+371,121,Deluxe Room
+372,121,Standard Room
+373,121,Emergency Room
+374,121,Emergency Room
+375,121,Emergency Room
+376,122,Consultation Room
+377,122,Consultation Room
+384,122,Super Deluxe Room
+385,122,Deluxe Room
+386,122,Standard Room
+387,122,Super Deluxe Room
+388,122,Deluxe Room
+389,122,Standard Room
+390,122,Emergency Room
+391,123,Consultation Room
+392,123,Consultation Room
+393,123,Consultation Room
+394,123,Consultation Room
+395,123,Consultation Room
+400,123,Super Deluxe Room
+401,123,Deluxe Room
+402,123,Standard Room
+403,123,Super Deluxe Room
+404,123,Deluxe Room
+405,123,Standard Room
+406,124,Consultation Room
+407,124,Consultation Room
+408,124,Consultation Room
+415,124,Super Deluxe Room
+416,124,Deluxe Room
+417,124,Standard Room
+418,124,Super Deluxe Room
+419,124,Deluxe Room
+420,124,Standard Room
+421,125,Consultation Room
+422,125,Consultation Room
+429,125,Super Deluxe Room
+430,125,Deluxe Room
+431,125,Standard Room
+432,125,Super Deluxe Room
+433,125,Deluxe Room
+434,125,Standard Room
+435,125,Emergency Room
+436,126,Consultation Room
+437,126,Consultation Room
+438,126,Consultation Room
+443,126,Super Deluxe Room
+444,126,Deluxe Room
+445,126,Standard Room
+446,127,Consultation Room
+447,127,Consultation Room
+448,127,Consultation Room
+449,127,Consultation Room
+450,127,Consultation Room
+451,127,Consultation Room
+452,127,Consultation Room
+453,127,Consultation Room
+454,127,Super Deluxe Room
+455,127,Deluxe Room
+456,127,Standard Room
+457,127,Super Deluxe Room
+458,127,Deluxe Room
+459,127,Standard Room
+460,127,Emergency Room
+461,128,Consultation Room
+462,128,Consultation Room
+468,128,Super Deluxe Room
+469,128,Deluxe Room
+470,128,Standard Room
+471,129,Consultation Room
+472,129,Consultation Room
+473,129,Consultation Room
+474,129,Consultation Room
+475,129,Consultation Room
+476,129,Consultation Room
+477,129,Consultation Room
+478,129,Consultation Room
+479,129,Consultation Room
+480,129,Consultation Room
+481,129,Consultation Room
+482,129,Consultation Room
+483,129,Super Deluxe Room
+484,129,Deluxe Room
+485,129,Standard Room
+486,129,Super Deluxe Room
+487,129,Deluxe Room
+488,129,Standard Room
+489,129,Emergency Room
+490,129,Emergency Room
+491,130,Consultation Room
+492,130,Consultation Room
+493,130,Consultation Room
+494,130,Consultation Room
+495,130,Consultation Room
+496,130,Consultation Room
+497,130,Consultation Room
+498,130,Consultation Room
+499,130,Consultation Room
+500,130,Consultation Room
+501,130,Consultation Room
+502,130,Consultation Room
+503,130,Consultation Room
+504,130,Super Deluxe Room
+505,130,Deluxe Room
+506,130,Standard Room
+507,130,Super Deluxe Room
+508,130,Deluxe Room
+509,130,Standard Room
+510,130,Super Deluxe Room
+511,130,Deluxe Room
+512,130,Standard Room
+513,130,Super Deluxe Room
+514,130,Deluxe Room
+515,130,Standard Room
+516,130,Super Deluxe Room
+517,130,Deluxe Room
+518,130,Standard Room
+519,130,Emergency Room
+520,130,Emergency Room
+521,131,Consultation Room
+522,131,Consultation Room
+523,131,Consultation Room
+524,131,Consultation Room
+525,131,Consultation Room
+528,131,Super Deluxe Room
+529,131,Deluxe Room
+530,131,Standard Room

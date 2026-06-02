@@ -1,0 +1,64 @@
+ward_No,ward_Name,dept_Id
+501,ICU,101
+502,Cardiology Ward,101
+503,Cardiology Ward,101
+504,ICU,101
+505,Cardiology Ward,101
+506,Neurology Ward,102
+507,Neurology Ward,102
+508,ICU,102
+509,Neurology Ward,102
+510,General Medicine Ward,103
+511,General Medicine Ward,104
+512,General Medicine Ward,104
+513,General Medicine Ward,105
+514,Isolation Ward,105
+515,General Medicine Ward,106
+516,General Medicine Ward,107
+517,General Medicine Ward,107
+518,General Medicine Ward,107
+519,General Medicine Ward,107
+520,General Medicine Ward,107
+521,Pediatrics Ward,108
+522,Pediatrics Ward,108
+523,Pediatrics Ward,108
+524,Orthopedics Ward,109
+525,Orthopedics Ward,109
+526,Obstetrics & Gynecology Ward,110
+527,Obstetrics & Gynecology Ward,110
+528,Obstetrics & Gynecology Ward,110
+529,General Medicine Ward,111
+530,General Medicine Ward,112
+531,Psychiatry Ward,113
+532,Psychiatry Ward,113
+533,Psychiatry Ward,113
+534,Psychiatry Ward,114
+535,Surgical Ward,115
+536,Surgical Ward,116
+537,Surgical Ward,117
+538,Surgical Ward,117
+539,Surgical Ward,117
+540,General Medicine Ward,118
+541,ICU,118
+542,Oncology Ward,119
+543,Oncology Ward,119
+544,Oncology Ward,119
+545,Isolation Ward,119
+546,Post-Anesthesia Care Unit,120
+547,Emergency Ward,121
+548,Emergency Ward,121
+549,Emergency Ward,121
+550,General Medicine Ward,122
+551,Rehabilitation Ward,123
+552,Isolation Ward,124
+553,Isolation Ward,125
+554,General Medicine Ward,126
+555,General Medicine Ward,127
+556,Psychiatry Ward,128
+557,General Medicine Ward,129
+558,ICU,130
+559,ICU,130
+560,ICU,130
+561,Geriatrics Ward,131
+562,Geriatrics Ward,131
+563,Geriatrics Ward,131
